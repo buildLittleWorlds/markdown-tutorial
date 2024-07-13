@@ -15,6 +15,6 @@
     - [Thirteen Ways of Looking at a Blackbird](https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird)
     - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - Images
-  ![]()<img src="spiral.jpg"  width="120">
-  
+  ![]()
+  <img src="spiral.jpg"  width="320">
 - Diagrams with Mermaid JS
