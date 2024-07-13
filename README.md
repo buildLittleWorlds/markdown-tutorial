@@ -17,6 +17,8 @@
 - Diagrams with Mermaid JS
 
 
-**Bold text**
 
-
+1. Research the video
+2. Plan the video
+3. Shoot the video
+4. Post the video
