@@ -14,7 +14,14 @@
   - Links
     - [Thirteen Ways of Looking at a Blackbird](https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird)
     - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-- Images
-  ![]()
-  <img src="spiral.jpg"  width="320">
 - Diagrams with Mermaid JS
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    markdown["`This **is** _Markdown_`"]
+    newLines["`Line1
+    Line 2
+    Line 3`"]
+    markdown --> newLines
+
+```
