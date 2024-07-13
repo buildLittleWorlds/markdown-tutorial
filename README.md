@@ -14,11 +14,6 @@
   - Links
     - [Thirteen Ways of Looking at a Blackbird](https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird)
     - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+    - [Mermaid Diagrams](mermaid-diagrams.md)
 - Diagrams with Mermaid JS
 
-
-
-1. Research the video
-2. Plan the video
-3. Shoot the video
-4. Post the video
