@@ -6,3 +6,5 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
+
+## This diagram shows the process of moving from one node in my telepathic space to another!!
